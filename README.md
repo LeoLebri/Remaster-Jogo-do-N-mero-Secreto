@@ -21,7 +21,8 @@ Este projeto é uma atualização do "Jogo do Número Secreto", que agora aprese
 
 Abaixo está uma captura de tela mostrando a nova interface do jogo, com o novo design e funcionalidades:
 
-![Tela do Jogo Remasterizado](./img/TelaInicial.png.)
+![Tela do Jogo Remasterizado](./img/TelaInicial.png)
+
 
 ### Como Jogar
 
